@@ -1,3 +1,0 @@
-﻿  ITSA_0318_14.cpp
-C:\Users\User\source\repos\ITSA_0318_14\ITSA_0318_14\ITSA_0318_14.cpp(15,25): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
-  ITSA_0318_14.vcxproj -> C:\Users\User\source\repos\ITSA_0318_14\x64\Debug\ITSA_0318_14.exe
